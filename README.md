@@ -1,4 +1,5 @@
 # tik-tak-toe
 
-## Python
-## Python tkinter
+### Python(terminal)
+## Python(tkinter)
+## JavaScript(ReactJS)
